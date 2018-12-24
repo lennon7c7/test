@@ -1,0 +1,11 @@
+{
+  "name": "lennon/github-test",
+  "description": "this is desc",
+  "authors": [
+    {
+      "name": "lennon",
+      "email": "bawgkh@qq.com"
+    }
+  ],
+  "require": {}
+}

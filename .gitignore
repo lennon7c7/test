@@ -1,26 +1,4 @@
 # PhpStorm IDE Project Files
 /.idea
 
-# ECShop Cache file
-/temp/caches/*
-!/temp/caches/index.htm
-
-/temp/query_caches/*
-!/temp/query_caches/index.htm
-
-/temp/compiled/admin/*
-!/temp/compiled/admin/index.htm
-
-/temp/static_caches/*
-!/temp/static_caches/index.htm
-
-# ECTouch Cache File
-/app/data/cache/compiled/*
-!/app/data/cache/compiled/index.htm
-
-/app/data/cache/static_caches/*
-!/app/data/cache/static_caches/index.htm
-
-# ECTouch 用户头像
-/images/user_head/*
-!/images/user_head/index.htm
+/vendor/
